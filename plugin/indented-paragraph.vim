@@ -5,8 +5,8 @@ call textobj#user#plugin('indentedparagraph', {
 \     'select-i-function': 'indented_paragraph#SelectI',
 \     'select-i': 'ip',
 \     'move-n-function': 'indented_paragraph#MoveN',
-\     'move-n': '}',
+\     'move-n': 'g)',
 \     'move-p-function': 'indented_paragraph#MoveP',
-\     'move-p': '{',
+\     'move-p': 'g(',
 \   },
 \ })
